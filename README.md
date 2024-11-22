@@ -3,7 +3,6 @@
 👨🏻‍💻 Graduando em Análise e Desenvolvimento de Sistemas na UniFECAF (1º Semestre - Metodologias Ágeis, Introdução a Database com SQL e Matematica Lógica com Python)</br>
 📜 Formado em Análise e Desenvolvimento pela Etec Taboão da Serra</br> </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafitsdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Conhecimentos e Linguagens
